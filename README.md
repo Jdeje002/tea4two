@@ -1,2 +1,2 @@
 # tea4two
-A dating app the let finds coffee and tea places near you for your first date.
+A dating app that les users finds coffee and tea places near them for first date.
